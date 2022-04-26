@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jon Ro</title>
-    <link>https://jonrozen.github.io/jonro.github.io/tags/</link>
+    <link>jonro.io/tags/</link>
     <description>Recent content in Tags on Jon Ro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Apr 2022 19:18:51 -0400</lastBuildDate><atom:link href="https://jonrozen.github.io/jonro.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Apr 2022 19:18:51 -0400</lastBuildDate><atom:link href="jonro.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>dragonsong</title>
-      <link>https://jonrozen.github.io/jonro.github.io/tags/dragonsong/</link>
+      <link>jonro.io/tags/dragonsong/</link>
       <pubDate>Mon, 25 Apr 2022 19:18:51 -0400</pubDate>
       
-      <guid>https://jonrozen.github.io/jonro.github.io/tags/dragonsong/</guid>
+      <guid>jonro.io/tags/dragonsong/</guid>
       <description></description>
     </item>
     
     <item>
       <title>thoughts</title>
-      <link>https://jonrozen.github.io/jonro.github.io/tags/thoughts/</link>
+      <link>jonro.io/tags/thoughts/</link>
       <pubDate>Mon, 25 Apr 2022 19:18:51 -0400</pubDate>
       
-      <guid>https://jonrozen.github.io/jonro.github.io/tags/thoughts/</guid>
+      <guid>jonro.io/tags/thoughts/</guid>
       <description></description>
     </item>
     
